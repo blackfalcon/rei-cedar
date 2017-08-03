@@ -2,6 +2,8 @@ require('./build/check-theme')();
 
 const ReplacePlugin = require('replace-bundle-webpack-plugin');
 
+// Styleguide theming
+const { theme, styles } = require('./styleguide/styles');
 // Webpack configs
 const devConfig = require('./build/webpack.dev.conf.js');
 const prodConfig = require('./build/webpack.prod.conf.js');
@@ -55,23 +57,20 @@ module.exports = {
   styleguideDir: './dist-docs',
   template: indexTemplate,
   showUsage: true,
+  theme,
+  styles,
   sections: [
     {
       name: 'Introduction',
       content: 'docs/Introduction.md',
     },
     {
-      name: 'Documentation',
-      sections: [
-        {
-          name: 'Installation',
-          content: 'docs/Installation.md',
-        },
-        {
-          name: 'Configuration',
-          content: 'docs/Configuration.md',
-        },
-      ],
+      name: 'Installation',
+      content: 'docs/Installation.md',
+    },
+    {
+      name: 'Configuration',
+      content: 'docs/Configuration.md',
     },
     {
       name: 'Components',

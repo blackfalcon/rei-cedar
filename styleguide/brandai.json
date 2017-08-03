@@ -1,0 +1,3215 @@
+{
+	"list": {
+		"name": "Digital REI Brand",
+		"organization": "rei-digital-experience-team",
+		"colors": [
+			{
+				"name": "Lowe",
+				"colors": [
+					{
+						"name": "lowe-lighten-40",
+						"value": "#f7e8db"
+					},
+					{
+						"name": "lowe-lighten-30",
+						"value": "#edc9a9"
+					},
+					{
+						"name": "lowe-lighten-20",
+						"value": "#e2a875"
+					},
+					{
+						"name": "lowe-lighten-10",
+						"value": "#d68441"
+					},
+					{
+						"name": "lowe-base",
+						"value": "#bd5b0d"
+					},
+					{
+						"name": "lowe-darken-10",
+						"value": "#a14e0b"
+					},
+					{
+						"name": "lowe-darken-20",
+						"value": "#783b09"
+					},
+					{
+						"name": "lowe-darken-30",
+						"value": "#512605"
+					},
+					{
+						"name": "lowe-darken-40",
+						"value": "#281303"
+					}
+				]
+			},
+			{
+				"name": "Messner",
+				"colors": [
+					{
+						"name": "messner-lighten-40",
+						"value": "#e6ece4"
+					},
+					{
+						"name": "messner-lighten-30",
+						"value": "#c5d2bf"
+					},
+					{
+						"name": "messner-lighten-20",
+						"value": "#a0b696"
+					},
+					{
+						"name": "messner-lighten-10",
+						"value": "#7a966e"
+					},
+					{
+						"name": "messner-base",
+						"value": "#507141"
+					},
+					{
+						"name": "messner-darken-10",
+						"value": "#446037"
+					},
+					{
+						"name": "messner-darken-20",
+						"value": "#33482a"
+					},
+					{
+						"name": "messner-darken-30",
+						"value": "#22301c"
+					},
+					{
+						"name": "messner-darken-40",
+						"value": "#11180e"
+					},
+					{
+						"name": "",
+						"value": "#666666"
+					},
+					{
+						"name": "",
+						"value": "#222222"
+					}
+				]
+			},
+			{
+				"name": "Loretan",
+				"colors": [
+					{
+						"name": "loretan-lighten-40",
+						"value": "#e4ebf1"
+					},
+					{
+						"name": "loretan-lighten-30",
+						"value": "#bfd0de"
+					},
+					{
+						"name": "loretan-lighten-20",
+						"value": "#98b3c8"
+					},
+					{
+						"name": "loretan-lighten-10",
+						"value": "#6f92b2"
+					},
+					{
+						"name": "loretan-base",
+						"value": "#426c90"
+					},
+					{
+						"name": "loretan-darken-10",
+						"value": "#385c7a"
+					},
+					{
+						"name": "loretan-darken-20",
+						"value": "#2b455c"
+					},
+					{
+						"name": "loretan-darken-30",
+						"value": "#1c2e3e"
+					},
+					{
+						"name": "loretan-darken-40",
+						"value": "#0e171f"
+					}
+				]
+			},
+			{
+				"name": "Pasaban",
+				"colors": [
+					{
+						"name": "pasaban-lighten-40",
+						"value": "#f5e4df"
+					},
+					{
+						"name": "pasaban-lighten-30",
+						"value": "#e9c2b5"
+					},
+					{
+						"name": "pasaban-lighten-20",
+						"value": "#db9b85"
+					},
+					{
+						"name": "pasaban-lighten-10",
+						"value": "#cb7457"
+					},
+					{
+						"name": "pasaban-base",
+						"value": "#af4827"
+					},
+					{
+						"name": "pasaban-darken-10",
+						"value": "#953e21"
+					},
+					{
+						"name": "pasaban-darken-20",
+						"value": "#702e18"
+					},
+					{
+						"name": "pasaban-darken-30",
+						"value": "#42170f"
+					},
+					{
+						"name": "pasaban-darken-40",
+						"value": "#250f09"
+					}
+				]
+			},
+			{
+				"name": "Hillary",
+				"colors": [
+					{
+						"name": "hillary-lighten-40",
+						"value": "#fafafa"
+					},
+					{
+						"name": "hillary-lighten-30",
+						"value": "#e9e9e9"
+					},
+					{
+						"name": "hillary-lighten-20",
+						"value": "#d7d8d8"
+					},
+					{
+						"name": "hillary-lighten-10",
+						"value": "#b8b9b9"
+					},
+					{
+						"name": "hillary-base",
+						"value": "#898b8b"
+					},
+					{
+						"name": "hillary-darken-10",
+						"value": "#696d6d"
+					},
+					{
+						"name": "hillary-darken-20",
+						"value": "#4f5252"
+					},
+					{
+						"name": "hillary-darken-30",
+						"value": "#2e2e2e"
+					},
+					{
+						"name": "hillary-darken-40",
+						"value": "#1b1c1c"
+					}
+				]
+			},
+			{
+				"name": "Steck",
+				"colors": [
+					{
+						"name": "steck-lighten-40",
+						"value": "#f7f6f3"
+					},
+					{
+						"name": "steck-lighten-30",
+						"value": "#edece4"
+					},
+					{
+						"name": "steck-lighten-20",
+						"value": "#e3e0d2"
+					},
+					{
+						"name": "steck-lighten-10",
+						"value": "#d7d3bf"
+					},
+					{
+						"name": "steck-base",
+						"value": "#beb9a0"
+					},
+					{
+						"name": "steck-darken-10",
+						"value": "#a29e88"
+					},
+					{
+						"name": "steck-darken-20",
+						"value": "#797666"
+					},
+					{
+						"name": "steck-darken-30",
+						"value": "#514f44"
+					},
+					{
+						"name": "steck-darken-40",
+						"value": "#282722"
+					}
+				]
+			},
+			{
+				"name": "Shade",
+				"colors": [
+					{
+						"name": "shade-lighter-40",
+						"value": "rgba(27, 28, 28, 0.1)"
+					},
+					{
+						"name": "shade-lighter-30",
+						"value": "rgba(27, 28, 28, 0.2)"
+					},
+					{
+						"name": "shade-lighter-20",
+						"value": "rgba(27, 28, 28, 0.3)"
+					},
+					{
+						"name": "shade-lighter-10",
+						"value": "rgba(27, 28, 28, 0.4)"
+					},
+					{
+						"name": "shade-base",
+						"value": "rgba(27, 28, 28, 0.5)"
+					},
+					{
+						"name": "shade-darker-10",
+						"value": "rgba(27, 28, 28, 0.6)"
+					},
+					{
+						"name": "shade-darker-20",
+						"value": "rgba(27, 28, 28, 0.7)"
+					},
+					{
+						"name": "shade-darker-30",
+						"value": "rgba(27, 28, 28, 0.8)"
+					},
+					{
+						"name": "shade-darker-40",
+						"value": "rgba(27, 28, 28, 0.9)"
+					}
+				]
+			},
+			{
+				"name": "gray",
+				"colors": [
+					{
+						"name": "gray-lighten-40",
+						"value": "#f0f0f0"
+					},
+					{
+						"name": "gray-lighten-30",
+						"value": "#e9e9e9"
+					},
+					{
+						"name": "gray-lighten-20",
+						"value": "#c5c5c5"
+					},
+					{
+						"name": "gray-lighten-10",
+						"value": "#b8b9b9"
+					},
+					{
+						"name": "gray-base",
+						"value": "#8b8b8b"
+					},
+					{
+						"name": "gray-darken-10",
+						"value": "#767676"
+					},
+					{
+						"name": "gray-darken-20",
+						"value": "#585858"
+					},
+					{
+						"name": "gray-darken-30",
+						"value": "#2e2e2e"
+					},
+					{
+						"name": "gray-darken-40",
+						"value": "#1e1e1e",
+						"description": "darken-40"
+					}
+				]
+			},
+			{
+				"name": "system",
+				"colors": [
+					{
+						"name": "system-10",
+						"value": "#222222"
+					},
+					{
+						"name": "system-20",
+						"value": "#000000"
+					},
+					{
+						"name": "error",
+						"value": "#cc0000"
+					},
+					{
+						"name": "warning",
+						"value": "#e4ac00"
+					},
+					{
+						"name": "success",
+						"value": "#a1c900"
+					}
+				]
+			},
+			{
+				"name": "Buttons",
+				"colors": [
+					{
+						"name": "btn-primary",
+						"value": "#426c90"
+					},
+					{
+						"name": "btn-primary stroke",
+						"value": "#426c90"
+					},
+					{
+						"name": "btn-primary active",
+						"value": "#2b455c"
+					},
+					{
+						"name": "btn-primary active stroke",
+						"value": "#2b455c"
+					},
+					{
+						"name": "btn-secondary",
+						"value": "#ffffff"
+					},
+					{
+						"name": "btn-secondary stroke",
+						"value": "#808083"
+					},
+					{
+						"name": "btn-secondary active stroke",
+						"value": "#808083"
+					},
+					{
+						"name": "btn-secondary active",
+						"value": "#f2f2f2"
+					},
+					{
+						"name": "btn-text",
+						"value": "#ffffff"
+					},
+					{
+						"name": "btn-text active",
+						"value": "#ffffff"
+					},
+					{
+						"name": "disabled",
+						"value": "#c5c5c5"
+					},
+					{
+						"name": "disabled stroke",
+						"value": "#c5c5c5"
+					},
+					{
+						"name": "disabled-text",
+						"value": "#ffffff"
+					}
+				]
+			},
+			{
+				"name": "card",
+				"colors": [
+					{
+						"name": "card",
+						"value": "#ffffff"
+					},
+					{
+						"name": "card stroke",
+						"value": "#ffffff"
+					},
+					{
+						"name": "card-text",
+						"value": "#222222"
+					}
+				]
+			},
+			{
+				"name": "forms",
+				"colors": [
+					{
+						"name": "input",
+						"value": "#ffffff"
+					},
+					{
+						"name": "input stroke",
+						"value": "#c5c5c5"
+					},
+					{
+						"name": "disabled label",
+						"value": "#c5c5c5"
+					},
+					{
+						"name": "disabled input",
+						"value": "#e9e9e9"
+					},
+					{
+						"name": "disabled placeholder",
+						"value": "#b8b9b9"
+					}
+				]
+			},
+			{
+				"name": "links",
+				"colors": [
+					{
+						"name": "link",
+						"value": "#0066cc"
+					},
+					{
+						"name": "link-overlay",
+						"value": "#4eaaff"
+					},
+					{
+						"name": "link-contrast-overlay",
+						"value": "#ffffff"
+					}
+				]
+			}
+		],
+		"logos": [
+			{
+				"displayName": "icon-rei-logo.svg",
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/rei-co-op-logo-white-ry4lRK3MZ.svg",
+				"fileName": "rei-co-op-logo-white.svg"
+			}
+		],
+		"fonts": [
+			{
+				"name": "Brand Font Primary",
+				"family": "Sentinel",
+				"fallback": "Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 600
+					}
+				]
+			},
+			{
+				"name": "Brand Font Secondary",
+				"family": "\"Plak Black Condensed\"",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					}
+				]
+			},
+			{
+				"name": "Functional-Primary",
+				"family": "Roboto Condensed",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			},
+			{
+				"name": "Functional-Secondary",
+				"family": "Roboto",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			},
+			{
+				"name": "Sentinel",
+				"family": "Sentinel",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 600
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 600
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "bold"
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 800
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 800
+					}
+				]
+			}
+		],
+		"typeStyles": [
+			{
+				"fontSize": "96px",
+				"lineHeight": "104px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-90",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "76px",
+				"lineHeight": "84px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-80",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "56px",
+				"lineHeight": "60px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-70",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "40px",
+				"lineHeight": "48px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-60",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-50",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-40",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "600",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-20",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-10",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-40",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-20",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "26px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-10",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-70",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-60",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-50",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-40",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-20",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "12px",
+				"lineHeight": "16px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-10",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-40",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "26px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-20",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "14px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-10",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "16px",
+				"textAlign": "start",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-ui-30",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"fontSize": "14px",
+				"lineHeight": "14px",
+				"textAlign": "start",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-ui-20",
+				"backgroundColor": "#ffffff"
+			},
+			{
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-70",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-60",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-50",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-40",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-20",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "12px",
+				"lineHeight": "16px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-10",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "21px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-ui-30",
+				"backgroundColor": null
+			},
+			{
+				"fontSize": "18px",
+				"lineHeight": "18px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-ui-40",
+				"backgroundColor": null
+			}
+		],
+		"iconSections": [
+			{
+				"name": "Destination Icons",
+				"icons": [
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-print-ryeoHlTeeZ.svg",
+						"fileName": "icon-rei-print.svg",
+						"displayName": "icon-rei-print.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-backorder-SklsZa3de-.svg",
+						"fileName": "icon-rei-backorder.svg",
+						"displayName": "icon-rei-backorder.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-call-SklEfp3ugW.svg",
+						"fileName": "icon-rei-call.svg",
+						"displayName": "icon-rei-call.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-chat-ryxOG6huxW.svg",
+						"fileName": "icon-rei-chat.svg",
+						"displayName": "icon-rei-chat.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-check-Bkx3fp3uxb.svg",
+						"fileName": "icon-rei-check.svg",
+						"displayName": "icon-rei-check.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-close-ryeG7T2deZ.svg",
+						"fileName": "icon-rei-close.svg",
+						"displayName": "icon-rei-close.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-collapse-BJxPXandxZ.svg",
+						"fileName": "icon-rei-collapse.svg",
+						"displayName": "icon-rei-collapse.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-devices-SJxjQT2_lb.svg",
+						"fileName": "icon-rei-devices.svg",
+						"displayName": "icon-rei-devices.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-down-arrow-HyeCXThdgZ.svg",
+						"fileName": "icon-rei-down-arrow.svg",
+						"displayName": "icon-rei-down-arrow.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-email-SJlWET2dgW.svg",
+						"fileName": "icon-rei-email.svg",
+						"displayName": "icon-rei-email.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-error-HkeENTnOgZ.svg",
+						"fileName": "icon-rei-error.svg",
+						"displayName": "icon-rei-error.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-expand-SJg8Ea2_e-.svg",
+						"fileName": "icon-rei-expand.svg",
+						"displayName": "icon-rei-expand.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-external-link-SJxhVahdeW.svg",
+						"fileName": "icon-rei-external-link.svg",
+						"displayName": "icon-rei-external-link.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-hamburger-menu-S1gJHpn_eZ.svg",
+						"fileName": "icon-rei-hamburger-menu.svg",
+						"displayName": "icon-rei-hamburger-menu.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-help-rylXrandlb.svg",
+						"fileName": "icon-rei-help.svg",
+						"displayName": "icon-rei-help.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-info-H1ePBThul-.svg",
+						"fileName": "icon-rei-info.svg",
+						"displayName": "icon-rei-info.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-inline-search-r1e3r62OeZ.svg",
+						"fileName": "icon-rei-inline-search.svg",
+						"displayName": "icon-rei-inline-search.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-left-arrow-H1lRSa3OlZ.svg",
+						"fileName": "icon-rei-left-arrow.svg",
+						"displayName": "icon-rei-left-arrow.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-location-B1lPUT2deb.svg",
+						"fileName": "icon-rei-location.svg",
+						"displayName": "icon-rei-location.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-play-large-BkgqLTh_g-.svg",
+						"fileName": "icon-rei-play-large.svg",
+						"displayName": "icon-rei-play-large.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-play-small-rklaL6hdgb.svg",
+						"fileName": "icon-rei-play-small.svg",
+						"displayName": "icon-rei-play-small.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-profile-rklePandgZ.svg",
+						"fileName": "icon-rei-profile.svg",
+						"displayName": "icon-rei-profile.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-right-arrow-rJxXvphOgZ.svg",
+						"fileName": "icon-rei-right-arrow.svg",
+						"displayName": "icon-rei-right-arrow.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-search-SyeDwTn_eW.svg",
+						"fileName": "icon-rei-search.svg",
+						"displayName": "icon-rei-search.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-shipping-Bkx2va3Ol-.svg",
+						"fileName": "icon-rei-shipping.svg",
+						"displayName": "icon-rei-shipping.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-size-chart-B1ledT2_l-.svg",
+						"fileName": "icon-rei-size-chart.svg",
+						"displayName": "icon-rei-size-chart.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-facebook-rkxKdp3ulZ.svg",
+						"fileName": "icon-rei-social-facebook.svg",
+						"displayName": "icon-rei-social-facebook.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-instagram-rJgp_ThOgW.svg",
+						"fileName": "icon-rei-social-instagram.svg",
+						"displayName": "icon-rei-social-instagram.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-pinterest-SygeYT2_eW.svg",
+						"fileName": "icon-rei-social-pinterest.svg",
+						"displayName": "icon-rei-social-pinterest.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-twitter-H1gXK6nug-.svg",
+						"fileName": "icon-rei-social-twitter.svg",
+						"displayName": "icon-rei-social-twitter.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-youtube-SJx8tp2ux-.svg",
+						"fileName": "icon-rei-social-youtube.svg",
+						"displayName": "icon-rei-social-youtube.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-25-HklKKp2dl-.svg",
+						"fileName": "icon-rei-star-25.svg",
+						"displayName": "icon-rei-star-25.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-50-r1g2Ya2dgZ.svg",
+						"fileName": "icon-rei-star-50.svg",
+						"displayName": "icon-rei-star-50.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-75-BkgJ9T2Oeb.svg",
+						"fileName": "icon-rei-star-75.svg",
+						"displayName": "icon-rei-star-75.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-100-H1Gfc62dlb.svg",
+						"fileName": "icon-rei-star-100.svg",
+						"displayName": "icon-rei-star-100.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-success-BkgN563OxZ.svg",
+						"fileName": "icon-rei-success.svg",
+						"displayName": "icon-rei-success.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-target-BJeKca2_gZ.svg",
+						"fileName": "icon-rei-target.svg",
+						"displayName": "icon-rei-target.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-tree-arrow-Bkg6ca2_eZ.svg",
+						"fileName": "icon-rei-tree-arrow.svg",
+						"displayName": "icon-rei-tree-arrow.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-up-arrow-SJxyiT2ueZ.svg",
+						"fileName": "icon-rei-up-arrow.svg",
+						"displayName": "icon-rei-up-arrow.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-vr-HJezs6n_lW.svg",
+						"fileName": "icon-rei-vr.svg",
+						"displayName": "icon-rei-vr.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-warning-rkeIs63_gW.svg",
+						"fileName": "icon-rei-warning.svg",
+						"displayName": "icon-rei-warning.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-zoom-HyeKoTnOl-.svg",
+						"fileName": "icon-rei-zoom.svg",
+						"displayName": "icon-rei-zoom.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-close-small-SyxCoanuxW.svg",
+						"fileName": "icon-rei-close-small.svg",
+						"displayName": "icon-rei-close-small.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-calendar-H1eS2ahugW.svg",
+						"fileName": "icon-rei-calendar.svg",
+						"displayName": "icon-rei-calendar.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-add-HylvRuOmg-.svg",
+						"fileName": "icon-rei-add.svg",
+						"displayName": "icon-rei-add.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-cart-empty-H1xTPYumlb.svg",
+						"fileName": "icon-rei-cart-empty.svg",
+						"displayName": "icon-rei-cart-empty.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-cart-Hklb_Kd7xW.svg",
+						"fileName": "icon-rei-cart.svg",
+						"displayName": "icon-rei-cart.svg",
+						"extension": "svg"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-share-H1l2ttO7gZ.svg",
+						"fileName": "icon-rei-share.svg",
+						"displayName": "icon-rei-share.svg",
+						"extension": "svg"
+					}
+				]
+			}
+		],
+		"imageSections": [],
+		"componentImageSections": [
+			{
+				"name": "Button",
+				"components": [
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20button-A14CD754-3826-45BE-B648-9CF3C0AECD9-r1BOjN2kwZ.png",
+						"fileName": "primary button.png",
+						"displayName": "primary button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20button%3A%20hover-4D266E59-F341-4FC2-89B5-3065-Sy-uiVn1PW.png",
+						"fileName": "primary button: hover.png",
+						"displayName": "primary button: hover",
+						"backgroundColor": null,
+						"extension": "png",
+						"storybook": {
+							"url": "http://rei.github.io/rei-cedar/#cdr-button",
+							"storyName": null,
+							"kind": null,
+							"id": "598101e1a9852860351206c9"
+						}
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20button%3A%20focus-01878A5C-38BF-480A-9A72-7D2E-S1D_sVn1wZ.png",
+						"fileName": "primary button: focus.png",
+						"displayName": "primary button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20button%3A%20disabled-108F566A-9547-408F-B78A-B-HJm_jE3kvZ.png",
+						"fileName": "primary button: disabled.png",
+						"displayName": "primary button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20icon%20button-C8566F1F-8EB7-4B3D-B163-9F4BDC-S1U_iN2JDW.png",
+						"fileName": "primary icon button.png",
+						"displayName": "primary icon button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20icon%20button%3A%20hover-844884FA-F9A4-4ED8-BDAD-BkVuoV2yPb.png",
+						"fileName": "primary icon button: hover.png",
+						"displayName": "primary icon button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20icon%20button%3A%20focus-6FC444F5-21DA-4BA3-B6B2-r1fuj43Jv-.png",
+						"fileName": "primary icon button: focus.png",
+						"displayName": "primary icon button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20icon%20button%3A%20disabled-A1621725-EC61-46B2-B-SyuOo4hkvW.png",
+						"fileName": "primary icon button: disabled.png",
+						"displayName": "primary icon button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20button-1015775B-2567-4B28-815A-F4D-HJDwhV31vW.png",
+						"fileName": "primary compact button.png",
+						"displayName": "primary compact button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20button%3A%20hover-E8985507-EE2B-4D7C-8-BJBwhN3yPZ.png",
+						"fileName": "primary compact button: hover.png",
+						"displayName": "primary compact button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20button%3A%20focus-894CDD7B-0EF7-4900-9-rJmwnEnJwb.png",
+						"fileName": "primary compact button: focus.png",
+						"displayName": "primary compact button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20button%3A%20disabled-96DFE5EA-AD3E-464-BkMPnEh1wZ.png",
+						"fileName": "primary compact button: disabled.png",
+						"displayName": "primary compact button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20icon%20button-13B04D8B-62BC-4B4A-AE3-HyWD34n1Pb.png",
+						"fileName": "primary compact icon button.png",
+						"displayName": "primary compact icon button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20icon%20button%3A%20hover-AC751F7C-1D9F-4-ByLD3V3JPW.png",
+						"fileName": "primary compact icon button: hover.png",
+						"displayName": "primary compact icon button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20icon%20button%3A%20focus-59F879E1-4544-4-ByEv3V3yPW.png",
+						"fileName": "primary compact icon button: focus.png",
+						"displayName": "primary compact icon button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/primary%20compact%20icon%20button%3A%20disabled-E5E11190-320-r1OP2N2yvW.png",
+						"fileName": "primary compact icon button: disabled.png",
+						"displayName": "primary compact icon button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20button-8F8A7F3A-103A-42F6-9C36-CDF7A55E0-rJ7vT42yvb.png",
+						"fileName": "secondary button.png",
+						"displayName": "secondary button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20button%3A%20hover-E61A95A2-B0DA-45A1-8A0D-05-H1wDTE3yDb.png",
+						"fileName": "secondary button: hover.png",
+						"displayName": "secondary button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20button%3A%20focus-FA569804-37F7-4F1E-A237-9B-HJLw6V3JwW.png",
+						"fileName": "secondary button: focus.png",
+						"displayName": "secondary button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20button%3A%20disabled-65509F95-949D-4974-8D8F-ByBwTVnkwZ.png",
+						"fileName": "secondary button: disabled.png",
+						"displayName": "secondary button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20icon%20button-3A0DA87B-C800-4291-B0F3-D4C0-r1_D6Vh1D-.png",
+						"fileName": "secondary icon button.png",
+						"displayName": "secondary icon button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20icon%20button%3A%20hover-EDE2EB61-8413-4AB0-B4-rybv642kDZ.png",
+						"fileName": "secondary icon button: hover.png",
+						"displayName": "secondary icon button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20icon%20button%3A%20focus-2FC97F74-1AB5-462A-A4-HJzDTVnkwZ.png",
+						"fileName": "secondary icon button: focus.png",
+						"displayName": "secondary icon button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20icon%20button%3A%20disabled-24C0D9E1-D712-4542-B1NDT4hJv-.png",
+						"fileName": "secondary icon button: disabled.png",
+						"displayName": "secondary icon button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20button-720D6514-99BC-4FCC-B63E-3-HJsvRVnkPZ.png",
+						"fileName": "secondary compact button.png",
+						"displayName": "secondary compact button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20button%3A%20hover-7CE6068E-2788-447C-BJUvRVhJDb.png",
+						"fileName": "secondary compact button: hover.png",
+						"displayName": "secondary compact button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20button%3A%20focus-F2C093AB-4BDB-4F88-HJqP0EnyD-.png",
+						"fileName": "secondary compact button: focus.png",
+						"displayName": "secondary compact button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20button%3A%20disabled-FBDD232E-350B-4-BJKw0Vh1P-.png",
+						"fileName": "secondary compact button: disabled.png",
+						"displayName": "secondary compact button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20icon%20button-6B97F828-12FD-47A8-A-BkuDRN2yvW.png",
+						"fileName": "secondary compact icon button.png",
+						"displayName": "secondary compact icon button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20icon%20button%3A%20hover-6F6FA861-EF44-ryxgwC4nJPZ.png",
+						"fileName": "secondary compact icon button: hover.png",
+						"displayName": "secondary compact icon button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20icon%20button%3A%20focus-912642F9-002A-ByAD0En1wb.png",
+						"fileName": "secondary compact icon button: focus.png",
+						"displayName": "secondary compact icon button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/secondary%20compact%20icon%20button%3A%20disabled-735F0D81-A-BkvwAN31wW.png",
+						"fileName": "secondary compact icon button: disabled.png",
+						"displayName": "secondary compact icon button: disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/close%20button-D518EB90-293E-432B-BA97-4F0512352290-B1JgwC42yP-.png",
+						"fileName": "close button.png",
+						"displayName": "close button",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/close%20button%3A%20hover-192BD19A-2F97-4624-AA01-C1EDD3-S1pDR42ywW.png",
+						"fileName": "close button: hover.png",
+						"displayName": "close button: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/close%20button%3A%20focus-C89B9193-4EB2-46FA-A4E0-4B597F-ry3PAE3yDZ.png",
+						"fileName": "close button: focus.png",
+						"displayName": "close button: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					}
+				]
+			},
+			{
+				"name": "Call-to-Action",
+				"components": [
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/dark%20CTA-73EC84F5-033B-49B6-8802-A4AD9751EA8A-H1G4gS2yw-.png",
+						"fileName": "dark CTA.png",
+						"displayName": "dark CTA",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/dark%20CTA%3A%20hover-495EC56C-86AC-4285-BCE1-25980B08FB-rJbVxBhJDW.png",
+						"fileName": "dark CTA: hover.png",
+						"displayName": "dark CTA: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/dark%20CTA%3A%20focus-7337266F-5563-47E5-8777-94041A384C-B1L4lrh1vW.png",
+						"fileName": "dark CTA: focus.png",
+						"displayName": "dark CTA: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/light%20CTA-D6FDCCDA-91C7-4773-AA75-891448979136-ByHNlr3kPW.png",
+						"fileName": "light CTA.png",
+						"displayName": "light CTA",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/light%20CTA%3A%20hover-D76A6B19-ADE1-444D-A8C8-ADB12DE89-H1VNxrh1Pb.png",
+						"fileName": "light CTA: hover.png",
+						"displayName": "light CTA: hover",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/light%20CTA%3A%20focus-CD25ED65-8946-410B-9400-2343EDEA1-HkXNlS3yPW.png",
+						"fileName": "light CTA: focus.png",
+						"displayName": "light CTA: focus",
+						"backgroundColor": null,
+						"extension": "png"
+					}
+				]
+			},
+			{
+				"name": "Contrast buttons",
+				"components": [
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast-88E1E43-SkZqz1_tmZ.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast%20active--rJZZ7yuYm-.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast active.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast active",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-default%20btn-contrast%20btn-xs--HyWmSkOYmW.png",
+						"fileName": "Buttons/Alternate/btn-default btn-contrast btn-xs.png",
+						"displayName": "Buttons/Alternate/btn-default btn-contrast btn-xs",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-default%20btn-contrast%20btn-xs%20-ryZwSyOtmW.png",
+						"fileName": "Buttons/Alternate/btn-default btn-contrast btn-xs active.png",
+						"displayName": "Buttons/Alternate/btn-default btn-contrast btn-xs active",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast%20btn-xs--r1Wldkut7Z.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast btn-xs.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast btn-xs",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast%20btn-xs%20-BJ-EdJdYX-.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast btn-xs active.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast btn-xs active",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-default%20btn-contrast%20btn-sm%20-rk-I9JuYQb.png",
+						"fileName": "Buttons/Alternate/btn-default btn-contrast btn-sm .png",
+						"displayName": "Buttons/Alternate/btn-default btn-contrast btn-sm ",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast%20btn-sm--Sy-Ijkutmb.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast btn-sm.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast btn-sm",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-primary%20btn-contrast%20btn-sma-SJWYoJ_KQZ.png",
+						"fileName": "Buttons/Alternate/btn-primary btn-contrast btn-small active.png",
+						"displayName": "Buttons/Alternate/btn-primary btn-contrast btn-small active",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-default%20btn-contrast-E6BBCCC-B1b13Jut7W.png",
+						"fileName": "Buttons/Alternate/btn-default btn-contrast.png",
+						"displayName": "Buttons/Alternate/btn-default btn-contrast",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Alternate/btn-default%20btn-contrast%20active--r1bX21_Kmb.png",
+						"fileName": "Buttons/Alternate/btn-default btn-contrast active.png",
+						"displayName": "Buttons/Alternate/btn-default btn-contrast active",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/Buttons/Disabled/btn-primary%20btn-sm%20disabled-78CAD-B1bUp1_t7-.png",
+						"fileName": "Buttons/Disabled/btn-primary btn-sm disabled.png",
+						"displayName": "Buttons/Disabled/btn-primary btn-sm disabled",
+						"backgroundColor": null,
+						"extension": "png"
+					}
+				]
+			},
+			{
+				"name": "Filters",
+				"components": [
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon%20-%20expand-FB91DE9F-129F-4EA9-B5F3-E38ECD3DA0C4-B1ZXle_K7-.png",
+						"fileName": "icon - expand.png",
+						"displayName": "icon - expand",
+						"backgroundColor": null,
+						"extension": "png"
+					},
+					{
+						"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon%20-%20collapse-EC97C54C-ABFB-4E95-86FB-EE74AC2309-ryb6leuF7-.png",
+						"fileName": "icon - collapse.png",
+						"displayName": "icon - collapse",
+						"backgroundColor": null,
+						"extension": "png"
+					}
+				]
+			}
+		],
+		"termSections": [],
+		"measurementSections": [
+			{
+				"name": "Spacing",
+				"measurementType": "space",
+				"measurements": [
+					{
+						"name": "space-closed",
+						"unit": "rem",
+						"value": 0
+					},
+					{
+						"name": "space-xxs",
+						"unit": "rem",
+						"value": 0.2
+					},
+					{
+						"name": "space-xs",
+						"unit": "rem",
+						"value": 0.4
+					},
+					{
+						"name": "space-sm",
+						"unit": "rem",
+						"value": 0.8
+					},
+					{
+						"name": "space-md",
+						"unit": "rem",
+						"value": 1.6
+					},
+					{
+						"name": "space-lg",
+						"unit": "rem",
+						"value": 3.2
+					},
+					{
+						"name": "space-xl",
+						"unit": "rem",
+						"value": 6.4
+					},
+					{
+						"name": "space-xxl",
+						"unit": "rem",
+						"value": 12.8
+					}
+				]
+			},
+			{
+				"name": "Radius",
+				"measurementType": "radius",
+				"measurements": [
+					{
+						"name": "radius-10",
+						"unit": "rem",
+						"value": 0.2
+					},
+					{
+						"name": "radius-00",
+						"unit": "rem",
+						"value": 0
+					},
+					{
+						"name": "button",
+						"unit": "rem",
+						"value": 0.2
+					},
+					{
+						"name": "card",
+						"unit": "rem",
+						"value": 0.2
+					},
+					{
+						"name": "radius-20",
+						"unit": "rem",
+						"value": 3.2
+					},
+					{
+						"name": "input",
+						"unit": "rem",
+						"value": 0.3
+					},
+					{
+						"unit": "rem"
+					}
+				]
+			},
+			{
+				"name": "Sizing",
+				"measurementType": "size",
+				"measurements": [
+					{
+						"name": "size-closed",
+						"unit": "px",
+						"value": 0
+					},
+					{
+						"name": "size-xxs",
+						"unit": "rem",
+						"value": 0.2
+					},
+					{
+						"name": "size-xs",
+						"unit": "rem",
+						"value": 0.4
+					},
+					{
+						"name": "size-sm",
+						"unit": "rem",
+						"value": 0.8
+					},
+					{
+						"name": "size-md",
+						"unit": "rem",
+						"value": 1.6
+					},
+					{
+						"name": "size-lg",
+						"unit": "rem",
+						"value": 3.2
+					},
+					{
+						"name": "size-xl",
+						"unit": "rem",
+						"value": 6.4
+					},
+					{
+						"name": "size-xxl",
+						"unit": "rem",
+						"value": 12.8
+					}
+				]
+			}
+		],
+		"shadowSections": [
+			{
+				"name": "Elevation",
+				"shadows": [
+					{
+						"name": "prominence-00",
+						"value": "0 0 0 0 rgba(27, 28, 28, 0.5)"
+					},
+					{
+						"name": "prominence-10",
+						"value": "0.2rem 0.2rem 0.2rem rgba(27, 28, 28, 0.3)"
+					},
+					{
+						"name": "prominence-20",
+						"value": "0.4rem 0.4rem 0.4rem rgba(27, 28, 28, 0.3)"
+					},
+					{
+						"name": "prominence-30",
+						"value": "0.8rem 0.8rem 0.8rem rgba(27, 28, 28, 0.2)"
+					},
+					{
+						"name": "prominence-40",
+						"value": "1.6rem 1.6rem 1.6rem rgba(27, 28, 28, 0.2)"
+					}
+				]
+			}
+		],
+		"readOnly": true
+	},
+	"lookup": {
+		"colors": {
+			"loweLighten40": {
+				"name": "lowe-lighten-40",
+				"value": "#f7e8db"
+			},
+			"loweLighten30": {
+				"name": "lowe-lighten-30",
+				"value": "#edc9a9"
+			},
+			"loweLighten20": {
+				"name": "lowe-lighten-20",
+				"value": "#e2a875"
+			},
+			"loweLighten10": {
+				"name": "lowe-lighten-10",
+				"value": "#d68441"
+			},
+			"loweBase": {
+				"name": "lowe-base",
+				"value": "#bd5b0d"
+			},
+			"loweDarken10": {
+				"name": "lowe-darken-10",
+				"value": "#a14e0b"
+			},
+			"loweDarken20": {
+				"name": "lowe-darken-20",
+				"value": "#783b09"
+			},
+			"loweDarken30": {
+				"name": "lowe-darken-30",
+				"value": "#512605"
+			},
+			"loweDarken40": {
+				"name": "lowe-darken-40",
+				"value": "#281303"
+			},
+			"messnerLighten40": {
+				"name": "messner-lighten-40",
+				"value": "#e6ece4"
+			},
+			"messnerLighten30": {
+				"name": "messner-lighten-30",
+				"value": "#c5d2bf"
+			},
+			"messnerLighten20": {
+				"name": "messner-lighten-20",
+				"value": "#a0b696"
+			},
+			"messnerLighten10": {
+				"name": "messner-lighten-10",
+				"value": "#7a966e"
+			},
+			"messnerBase": {
+				"name": "messner-base",
+				"value": "#507141"
+			},
+			"messnerDarken10": {
+				"name": "messner-darken-10",
+				"value": "#446037"
+			},
+			"messnerDarken20": {
+				"name": "messner-darken-20",
+				"value": "#33482a"
+			},
+			"messnerDarken30": {
+				"name": "messner-darken-30",
+				"value": "#22301c"
+			},
+			"messnerDarken40": {
+				"name": "messner-darken-40",
+				"value": "#11180e"
+			},
+			"loretanLighten40": {
+				"name": "loretan-lighten-40",
+				"value": "#e4ebf1"
+			},
+			"loretanLighten30": {
+				"name": "loretan-lighten-30",
+				"value": "#bfd0de"
+			},
+			"loretanLighten20": {
+				"name": "loretan-lighten-20",
+				"value": "#98b3c8"
+			},
+			"loretanLighten10": {
+				"name": "loretan-lighten-10",
+				"value": "#6f92b2"
+			},
+			"loretanBase": {
+				"name": "loretan-base",
+				"value": "#426c90"
+			},
+			"loretanDarken10": {
+				"name": "loretan-darken-10",
+				"value": "#385c7a"
+			},
+			"loretanDarken20": {
+				"name": "loretan-darken-20",
+				"value": "#2b455c"
+			},
+			"loretanDarken30": {
+				"name": "loretan-darken-30",
+				"value": "#1c2e3e"
+			},
+			"loretanDarken40": {
+				"name": "loretan-darken-40",
+				"value": "#0e171f"
+			},
+			"pasabanLighten40": {
+				"name": "pasaban-lighten-40",
+				"value": "#f5e4df"
+			},
+			"pasabanLighten30": {
+				"name": "pasaban-lighten-30",
+				"value": "#e9c2b5"
+			},
+			"pasabanLighten20": {
+				"name": "pasaban-lighten-20",
+				"value": "#db9b85"
+			},
+			"pasabanLighten10": {
+				"name": "pasaban-lighten-10",
+				"value": "#cb7457"
+			},
+			"pasabanBase": {
+				"name": "pasaban-base",
+				"value": "#af4827"
+			},
+			"pasabanDarken10": {
+				"name": "pasaban-darken-10",
+				"value": "#953e21"
+			},
+			"pasabanDarken20": {
+				"name": "pasaban-darken-20",
+				"value": "#702e18"
+			},
+			"pasabanDarken30": {
+				"name": "pasaban-darken-30",
+				"value": "#42170f"
+			},
+			"pasabanDarken40": {
+				"name": "pasaban-darken-40",
+				"value": "#250f09"
+			},
+			"hillaryLighten40": {
+				"name": "hillary-lighten-40",
+				"value": "#fafafa"
+			},
+			"hillaryLighten30": {
+				"name": "hillary-lighten-30",
+				"value": "#e9e9e9"
+			},
+			"hillaryLighten20": {
+				"name": "hillary-lighten-20",
+				"value": "#d7d8d8"
+			},
+			"hillaryLighten10": {
+				"name": "hillary-lighten-10",
+				"value": "#b8b9b9"
+			},
+			"hillaryBase": {
+				"name": "hillary-base",
+				"value": "#898b8b"
+			},
+			"hillaryDarken10": {
+				"name": "hillary-darken-10",
+				"value": "#696d6d"
+			},
+			"hillaryDarken20": {
+				"name": "hillary-darken-20",
+				"value": "#4f5252"
+			},
+			"hillaryDarken30": {
+				"name": "hillary-darken-30",
+				"value": "#2e2e2e"
+			},
+			"hillaryDarken40": {
+				"name": "hillary-darken-40",
+				"value": "#1b1c1c"
+			},
+			"steckLighten40": {
+				"name": "steck-lighten-40",
+				"value": "#f7f6f3"
+			},
+			"steckLighten30": {
+				"name": "steck-lighten-30",
+				"value": "#edece4"
+			},
+			"steckLighten20": {
+				"name": "steck-lighten-20",
+				"value": "#e3e0d2"
+			},
+			"steckLighten10": {
+				"name": "steck-lighten-10",
+				"value": "#d7d3bf"
+			},
+			"steckBase": {
+				"name": "steck-base",
+				"value": "#beb9a0"
+			},
+			"steckDarken10": {
+				"name": "steck-darken-10",
+				"value": "#a29e88"
+			},
+			"steckDarken20": {
+				"name": "steck-darken-20",
+				"value": "#797666"
+			},
+			"steckDarken30": {
+				"name": "steck-darken-30",
+				"value": "#514f44"
+			},
+			"steckDarken40": {
+				"name": "steck-darken-40",
+				"value": "#282722"
+			},
+			"shadeLighter40": {
+				"name": "shade-lighter-40",
+				"value": "rgba(27, 28, 28, 0.1)"
+			},
+			"shadeLighter30": {
+				"name": "shade-lighter-30",
+				"value": "rgba(27, 28, 28, 0.2)"
+			},
+			"shadeLighter20": {
+				"name": "shade-lighter-20",
+				"value": "rgba(27, 28, 28, 0.3)"
+			},
+			"shadeLighter10": {
+				"name": "shade-lighter-10",
+				"value": "rgba(27, 28, 28, 0.4)"
+			},
+			"shadeBase": {
+				"name": "shade-base",
+				"value": "rgba(27, 28, 28, 0.5)"
+			},
+			"shadeDarker10": {
+				"name": "shade-darker-10",
+				"value": "rgba(27, 28, 28, 0.6)"
+			},
+			"shadeDarker20": {
+				"name": "shade-darker-20",
+				"value": "rgba(27, 28, 28, 0.7)"
+			},
+			"shadeDarker30": {
+				"name": "shade-darker-30",
+				"value": "rgba(27, 28, 28, 0.8)"
+			},
+			"shadeDarker40": {
+				"name": "shade-darker-40",
+				"value": "rgba(27, 28, 28, 0.9)"
+			},
+			"grayLighten40": {
+				"name": "gray-lighten-40",
+				"value": "#f0f0f0"
+			},
+			"grayLighten30": {
+				"name": "gray-lighten-30",
+				"value": "#e9e9e9"
+			},
+			"grayLighten20": {
+				"name": "gray-lighten-20",
+				"value": "#c5c5c5"
+			},
+			"grayLighten10": {
+				"name": "gray-lighten-10",
+				"value": "#b8b9b9"
+			},
+			"grayBase": {
+				"name": "gray-base",
+				"value": "#8b8b8b"
+			},
+			"grayDarken10": {
+				"name": "gray-darken-10",
+				"value": "#767676"
+			},
+			"grayDarken20": {
+				"name": "gray-darken-20",
+				"value": "#585858"
+			},
+			"grayDarken30": {
+				"name": "gray-darken-30",
+				"value": "#2e2e2e"
+			},
+			"grayDarken40": {
+				"name": "gray-darken-40",
+				"value": "#1e1e1e",
+				"description": "darken-40"
+			},
+			"system10": {
+				"name": "system-10",
+				"value": "#222222"
+			},
+			"system20": {
+				"name": "system-20",
+				"value": "#000000"
+			},
+			"error": {
+				"name": "error",
+				"value": "#cc0000"
+			},
+			"warning": {
+				"name": "warning",
+				"value": "#e4ac00"
+			},
+			"success": {
+				"name": "success",
+				"value": "#a1c900"
+			},
+			"btnPrimary": {
+				"name": "btn-primary",
+				"value": "#426c90"
+			},
+			"btnPrimaryStroke": {
+				"name": "btn-primary stroke",
+				"value": "#426c90"
+			},
+			"btnPrimaryActive": {
+				"name": "btn-primary active",
+				"value": "#2b455c"
+			},
+			"btnPrimaryActiveStroke": {
+				"name": "btn-primary active stroke",
+				"value": "#2b455c"
+			},
+			"btnSecondary": {
+				"name": "btn-secondary",
+				"value": "#ffffff"
+			},
+			"btnSecondaryStroke": {
+				"name": "btn-secondary stroke",
+				"value": "#808083"
+			},
+			"btnSecondaryActiveStroke": {
+				"name": "btn-secondary active stroke",
+				"value": "#808083"
+			},
+			"btnSecondaryActive": {
+				"name": "btn-secondary active",
+				"value": "#f2f2f2"
+			},
+			"btnText": {
+				"name": "btn-text",
+				"value": "#ffffff"
+			},
+			"btnTextActive": {
+				"name": "btn-text active",
+				"value": "#ffffff"
+			},
+			"disabled": {
+				"name": "disabled",
+				"value": "#c5c5c5"
+			},
+			"disabledStroke": {
+				"name": "disabled stroke",
+				"value": "#c5c5c5"
+			},
+			"disabledText": {
+				"name": "disabled-text",
+				"value": "#ffffff"
+			},
+			"card": {
+				"name": "card",
+				"value": "#ffffff"
+			},
+			"cardStroke": {
+				"name": "card stroke",
+				"value": "#ffffff"
+			},
+			"cardText": {
+				"name": "card-text",
+				"value": "#222222"
+			},
+			"input": {
+				"name": "input",
+				"value": "#ffffff"
+			},
+			"inputStroke": {
+				"name": "input stroke",
+				"value": "#c5c5c5"
+			},
+			"disabledLabel": {
+				"name": "disabled label",
+				"value": "#c5c5c5"
+			},
+			"disabledInput": {
+				"name": "disabled input",
+				"value": "#e9e9e9"
+			},
+			"disabledPlaceholder": {
+				"name": "disabled placeholder",
+				"value": "#b8b9b9"
+			},
+			"link": {
+				"name": "link",
+				"value": "#0066cc"
+			},
+			"linkOverlay": {
+				"name": "link-overlay",
+				"value": "#4eaaff"
+			},
+			"linkContrastOverlay": {
+				"name": "link-contrast-overlay",
+				"value": "#ffffff"
+			}
+		},
+		"fonts": {
+			"brandFontPrimary": {
+				"name": "Brand Font Primary",
+				"family": "Sentinel",
+				"fallback": "Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 600
+					}
+				]
+			},
+			"brandFontSecondary": {
+				"name": "Brand Font Secondary",
+				"family": "\"Plak Black Condensed\"",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					}
+				]
+			},
+			"functionalPrimary": {
+				"name": "Functional-Primary",
+				"family": "Roboto Condensed",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			},
+			"functionalSecondary": {
+				"name": "Functional-Secondary",
+				"family": "Roboto",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 400
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					}
+				]
+			},
+			"sentinel": {
+				"name": "Sentinel",
+				"family": "Sentinel",
+				"variants": [
+					{
+						"fontStyle": "normal",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 300
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 500
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 600
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 600
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": "bold"
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": "bold"
+					},
+					{
+						"fontStyle": "normal",
+						"fontWeight": 800
+					},
+					{
+						"fontStyle": "italic",
+						"fontWeight": 800
+					}
+				]
+			}
+		},
+		"typeStyles": {
+			"spruceDsp90": {
+				"fontSize": "96px",
+				"lineHeight": "104px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-90",
+				"backgroundColor": null
+			},
+			"spruceDsp80": {
+				"fontSize": "76px",
+				"lineHeight": "84px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-80",
+				"backgroundColor": null
+			},
+			"spruceDsp70": {
+				"fontSize": "56px",
+				"lineHeight": "60px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-70",
+				"backgroundColor": null
+			},
+			"spruceDsp60": {
+				"fontSize": "40px",
+				"lineHeight": "48px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-60",
+				"backgroundColor": null
+			},
+			"spruceDsp50": {
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-50",
+				"backgroundColor": null
+			},
+			"spruceDsp40": {
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-40",
+				"backgroundColor": null
+			},
+			"spruceDsp30": {
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "600",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-30",
+				"backgroundColor": null
+			},
+			"spruceDsp20": {
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-20",
+				"backgroundColor": null
+			},
+			"spruceDsp10": {
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "start",
+				"color": "#2e2e2e",
+				"letterSpacing": "0.2px",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-dsp-10",
+				"backgroundColor": null
+			},
+			"spruceBdy40": {
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-40",
+				"backgroundColor": null
+			},
+			"spruceBdy30": {
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-30",
+				"backgroundColor": null
+			},
+			"spruceBdy20": {
+				"fontSize": "18px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-20",
+				"backgroundColor": null
+			},
+			"spruceBdy10": {
+				"fontSize": "16px",
+				"lineHeight": "26px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Sentinel, Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+				"name": "spruce-bdy-10",
+				"backgroundColor": null
+			},
+			"redwoodDsp70": {
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-70",
+				"backgroundColor": null
+			},
+			"redwoodDsp60": {
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-60",
+				"backgroundColor": null
+			},
+			"redwoodDsp50": {
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-50",
+				"backgroundColor": null
+			},
+			"redwoodDsp40": {
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-40",
+				"backgroundColor": null
+			},
+			"redwoodDsp30": {
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-30",
+				"backgroundColor": null
+			},
+			"redwoodDsp20": {
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-20",
+				"backgroundColor": null
+			},
+			"redwoodDsp10": {
+				"fontSize": "12px",
+				"lineHeight": "16px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-dsp-10",
+				"backgroundColor": null
+			},
+			"redwoodBdy40": {
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-40",
+				"backgroundColor": null
+			},
+			"redwoodBdy30": {
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-30",
+				"backgroundColor": null
+			},
+			"redwoodBdy20": {
+				"fontSize": "16px",
+				"lineHeight": "26px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-20",
+				"backgroundColor": null
+			},
+			"redwoodBdy10": {
+				"fontSize": "14px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-bdy-10",
+				"backgroundColor": null
+			},
+			"redwoodUi30": {
+				"fontSize": "16px",
+				"lineHeight": "16px",
+				"textAlign": "start",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-ui-30",
+				"backgroundColor": "#ffffff"
+			},
+			"redwoodUi20": {
+				"fontSize": "14px",
+				"lineHeight": "14px",
+				"textAlign": "start",
+				"color": "#000000",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto",
+				"name": "redwood-ui-20",
+				"backgroundColor": "#ffffff"
+			},
+			"mapleUtl70": {
+				"fontSize": "28px",
+				"lineHeight": "36px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-70",
+				"backgroundColor": null
+			},
+			"mapleUtl60": {
+				"fontSize": "24px",
+				"lineHeight": "32px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-60",
+				"backgroundColor": null
+			},
+			"mapleUtl50": {
+				"fontSize": "20px",
+				"lineHeight": "28px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-50",
+				"backgroundColor": null
+			},
+			"mapleUtl40": {
+				"fontSize": "18px",
+				"lineHeight": "24px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-40",
+				"backgroundColor": null
+			},
+			"mapleUtl30": {
+				"fontSize": "16px",
+				"lineHeight": "22px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-30",
+				"backgroundColor": null
+			},
+			"mapleUtl20": {
+				"fontSize": "14px",
+				"lineHeight": "20px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-20",
+				"backgroundColor": null
+			},
+			"mapleUtl10": {
+				"fontSize": "12px",
+				"lineHeight": "16px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-utl-10",
+				"backgroundColor": null
+			},
+			"mapleUi30": {
+				"fontSize": "18px",
+				"lineHeight": "21px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "bold",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-ui-30",
+				"backgroundColor": null
+			},
+			"mapleUi40": {
+				"fontSize": "18px",
+				"lineHeight": "18px",
+				"textAlign": "left",
+				"color": "#2e2e2e",
+				"fontStyle": "normal",
+				"fontWeight": "400",
+				"fontFamily": "Roboto Condensed",
+				"name": "maple-ui-40",
+				"backgroundColor": null
+			}
+		},
+		"logos": {
+			"iconReiLogoSvg": {
+				"displayName": "icon-rei-logo.svg",
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/rei-co-op-logo-white-ry4lRK3MZ.svg",
+				"fileName": "rei-co-op-logo-white.svg"
+			}
+		},
+		"images": {},
+		"icons": {
+			"iconReiPrintSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-print-ryeoHlTeeZ.svg",
+				"fileName": "icon-rei-print.svg",
+				"displayName": "icon-rei-print.svg",
+				"extension": "svg"
+			},
+			"iconReiBackorderSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-backorder-SklsZa3de-.svg",
+				"fileName": "icon-rei-backorder.svg",
+				"displayName": "icon-rei-backorder.svg",
+				"extension": "svg"
+			},
+			"iconReiCallSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-call-SklEfp3ugW.svg",
+				"fileName": "icon-rei-call.svg",
+				"displayName": "icon-rei-call.svg",
+				"extension": "svg"
+			},
+			"iconReiChatSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-chat-ryxOG6huxW.svg",
+				"fileName": "icon-rei-chat.svg",
+				"displayName": "icon-rei-chat.svg",
+				"extension": "svg"
+			},
+			"iconReiCheckSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-check-Bkx3fp3uxb.svg",
+				"fileName": "icon-rei-check.svg",
+				"displayName": "icon-rei-check.svg",
+				"extension": "svg"
+			},
+			"iconReiCloseSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-close-ryeG7T2deZ.svg",
+				"fileName": "icon-rei-close.svg",
+				"displayName": "icon-rei-close.svg",
+				"extension": "svg"
+			},
+			"iconReiCollapseSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-collapse-BJxPXandxZ.svg",
+				"fileName": "icon-rei-collapse.svg",
+				"displayName": "icon-rei-collapse.svg",
+				"extension": "svg"
+			},
+			"iconReiDevicesSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-devices-SJxjQT2_lb.svg",
+				"fileName": "icon-rei-devices.svg",
+				"displayName": "icon-rei-devices.svg",
+				"extension": "svg"
+			},
+			"iconReiDownArrowSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-down-arrow-HyeCXThdgZ.svg",
+				"fileName": "icon-rei-down-arrow.svg",
+				"displayName": "icon-rei-down-arrow.svg",
+				"extension": "svg"
+			},
+			"iconReiEmailSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-email-SJlWET2dgW.svg",
+				"fileName": "icon-rei-email.svg",
+				"displayName": "icon-rei-email.svg",
+				"extension": "svg"
+			},
+			"iconReiErrorSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-error-HkeENTnOgZ.svg",
+				"fileName": "icon-rei-error.svg",
+				"displayName": "icon-rei-error.svg",
+				"extension": "svg"
+			},
+			"iconReiExpandSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-expand-SJg8Ea2_e-.svg",
+				"fileName": "icon-rei-expand.svg",
+				"displayName": "icon-rei-expand.svg",
+				"extension": "svg"
+			},
+			"iconReiExternalLinkSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-external-link-SJxhVahdeW.svg",
+				"fileName": "icon-rei-external-link.svg",
+				"displayName": "icon-rei-external-link.svg",
+				"extension": "svg"
+			},
+			"iconReiHamburgerMenuSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-hamburger-menu-S1gJHpn_eZ.svg",
+				"fileName": "icon-rei-hamburger-menu.svg",
+				"displayName": "icon-rei-hamburger-menu.svg",
+				"extension": "svg"
+			},
+			"iconReiHelpSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-help-rylXrandlb.svg",
+				"fileName": "icon-rei-help.svg",
+				"displayName": "icon-rei-help.svg",
+				"extension": "svg"
+			},
+			"iconReiInfoSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-info-H1ePBThul-.svg",
+				"fileName": "icon-rei-info.svg",
+				"displayName": "icon-rei-info.svg",
+				"extension": "svg"
+			},
+			"iconReiInlineSearchSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-inline-search-r1e3r62OeZ.svg",
+				"fileName": "icon-rei-inline-search.svg",
+				"displayName": "icon-rei-inline-search.svg",
+				"extension": "svg"
+			},
+			"iconReiLeftArrowSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-left-arrow-H1lRSa3OlZ.svg",
+				"fileName": "icon-rei-left-arrow.svg",
+				"displayName": "icon-rei-left-arrow.svg",
+				"extension": "svg"
+			},
+			"iconReiLocationSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-location-B1lPUT2deb.svg",
+				"fileName": "icon-rei-location.svg",
+				"displayName": "icon-rei-location.svg",
+				"extension": "svg"
+			},
+			"iconReiPlayLargeSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-play-large-BkgqLTh_g-.svg",
+				"fileName": "icon-rei-play-large.svg",
+				"displayName": "icon-rei-play-large.svg",
+				"extension": "svg"
+			},
+			"iconReiPlaySmallSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-play-small-rklaL6hdgb.svg",
+				"fileName": "icon-rei-play-small.svg",
+				"displayName": "icon-rei-play-small.svg",
+				"extension": "svg"
+			},
+			"iconReiProfileSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-profile-rklePandgZ.svg",
+				"fileName": "icon-rei-profile.svg",
+				"displayName": "icon-rei-profile.svg",
+				"extension": "svg"
+			},
+			"iconReiRightArrowSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-right-arrow-rJxXvphOgZ.svg",
+				"fileName": "icon-rei-right-arrow.svg",
+				"displayName": "icon-rei-right-arrow.svg",
+				"extension": "svg"
+			},
+			"iconReiSearchSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-search-SyeDwTn_eW.svg",
+				"fileName": "icon-rei-search.svg",
+				"displayName": "icon-rei-search.svg",
+				"extension": "svg"
+			},
+			"iconReiShippingSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-shipping-Bkx2va3Ol-.svg",
+				"fileName": "icon-rei-shipping.svg",
+				"displayName": "icon-rei-shipping.svg",
+				"extension": "svg"
+			},
+			"iconReiSizeChartSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-size-chart-B1ledT2_l-.svg",
+				"fileName": "icon-rei-size-chart.svg",
+				"displayName": "icon-rei-size-chart.svg",
+				"extension": "svg"
+			},
+			"iconReiSocialFacebookSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-facebook-rkxKdp3ulZ.svg",
+				"fileName": "icon-rei-social-facebook.svg",
+				"displayName": "icon-rei-social-facebook.svg",
+				"extension": "svg"
+			},
+			"iconReiSocialInstagramSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-instagram-rJgp_ThOgW.svg",
+				"fileName": "icon-rei-social-instagram.svg",
+				"displayName": "icon-rei-social-instagram.svg",
+				"extension": "svg"
+			},
+			"iconReiSocialPinterestSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-pinterest-SygeYT2_eW.svg",
+				"fileName": "icon-rei-social-pinterest.svg",
+				"displayName": "icon-rei-social-pinterest.svg",
+				"extension": "svg"
+			},
+			"iconReiSocialTwitterSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-twitter-H1gXK6nug-.svg",
+				"fileName": "icon-rei-social-twitter.svg",
+				"displayName": "icon-rei-social-twitter.svg",
+				"extension": "svg"
+			},
+			"iconReiSocialYoutubeSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-social-youtube-SJx8tp2ux-.svg",
+				"fileName": "icon-rei-social-youtube.svg",
+				"displayName": "icon-rei-social-youtube.svg",
+				"extension": "svg"
+			},
+			"iconReiStar25Svg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-25-HklKKp2dl-.svg",
+				"fileName": "icon-rei-star-25.svg",
+				"displayName": "icon-rei-star-25.svg",
+				"extension": "svg"
+			},
+			"iconReiStar50Svg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-50-r1g2Ya2dgZ.svg",
+				"fileName": "icon-rei-star-50.svg",
+				"displayName": "icon-rei-star-50.svg",
+				"extension": "svg"
+			},
+			"iconReiStar75Svg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-75-BkgJ9T2Oeb.svg",
+				"fileName": "icon-rei-star-75.svg",
+				"displayName": "icon-rei-star-75.svg",
+				"extension": "svg"
+			},
+			"iconReiStar100Svg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-star-100-H1Gfc62dlb.svg",
+				"fileName": "icon-rei-star-100.svg",
+				"displayName": "icon-rei-star-100.svg",
+				"extension": "svg"
+			},
+			"iconReiSuccessSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-success-BkgN563OxZ.svg",
+				"fileName": "icon-rei-success.svg",
+				"displayName": "icon-rei-success.svg",
+				"extension": "svg"
+			},
+			"iconReiTargetSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-target-BJeKca2_gZ.svg",
+				"fileName": "icon-rei-target.svg",
+				"displayName": "icon-rei-target.svg",
+				"extension": "svg"
+			},
+			"iconReiTreeArrowSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-tree-arrow-Bkg6ca2_eZ.svg",
+				"fileName": "icon-rei-tree-arrow.svg",
+				"displayName": "icon-rei-tree-arrow.svg",
+				"extension": "svg"
+			},
+			"iconReiUpArrowSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-up-arrow-SJxyiT2ueZ.svg",
+				"fileName": "icon-rei-up-arrow.svg",
+				"displayName": "icon-rei-up-arrow.svg",
+				"extension": "svg"
+			},
+			"iconReiVrSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-vr-HJezs6n_lW.svg",
+				"fileName": "icon-rei-vr.svg",
+				"displayName": "icon-rei-vr.svg",
+				"extension": "svg"
+			},
+			"iconReiWarningSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-warning-rkeIs63_gW.svg",
+				"fileName": "icon-rei-warning.svg",
+				"displayName": "icon-rei-warning.svg",
+				"extension": "svg"
+			},
+			"iconReiZoomSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-zoom-HyeKoTnOl-.svg",
+				"fileName": "icon-rei-zoom.svg",
+				"displayName": "icon-rei-zoom.svg",
+				"extension": "svg"
+			},
+			"iconReiCloseSmallSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-close-small-SyxCoanuxW.svg",
+				"fileName": "icon-rei-close-small.svg",
+				"displayName": "icon-rei-close-small.svg",
+				"extension": "svg"
+			},
+			"iconReiCalendarSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-calendar-H1eS2ahugW.svg",
+				"fileName": "icon-rei-calendar.svg",
+				"displayName": "icon-rei-calendar.svg",
+				"extension": "svg"
+			},
+			"iconReiAddSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-add-HylvRuOmg-.svg",
+				"fileName": "icon-rei-add.svg",
+				"displayName": "icon-rei-add.svg",
+				"extension": "svg"
+			},
+			"iconReiCartEmptySvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-cart-empty-H1xTPYumlb.svg",
+				"fileName": "icon-rei-cart-empty.svg",
+				"displayName": "icon-rei-cart-empty.svg",
+				"extension": "svg"
+			},
+			"iconReiCartSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-cart-Hklb_Kd7xW.svg",
+				"fileName": "icon-rei-cart.svg",
+				"displayName": "icon-rei-cart.svg",
+				"extension": "svg"
+			},
+			"iconReiShareSvg": {
+				"url": "https://user-images.brand.ai/rei-digital-experience-team/digital-rei-brand/icon-rei-share-H1l2ttO7gZ.svg",
+				"fileName": "icon-rei-share.svg",
+				"displayName": "icon-rei-share.svg",
+				"extension": "svg"
+			}
+		},
+		"measurements": {
+			"spaceClosed": {
+				"name": "space-closed",
+				"unit": "rem",
+				"value": 0
+			},
+			"spaceXxs": {
+				"name": "space-xxs",
+				"unit": "rem",
+				"value": 0.2
+			},
+			"spaceXs": {
+				"name": "space-xs",
+				"unit": "rem",
+				"value": 0.4
+			},
+			"spaceSm": {
+				"name": "space-sm",
+				"unit": "rem",
+				"value": 0.8
+			},
+			"spaceMd": {
+				"name": "space-md",
+				"unit": "rem",
+				"value": 1.6
+			},
+			"spaceLg": {
+				"name": "space-lg",
+				"unit": "rem",
+				"value": 3.2
+			},
+			"spaceXl": {
+				"name": "space-xl",
+				"unit": "rem",
+				"value": 6.4
+			},
+			"spaceXxl": {
+				"name": "space-xxl",
+				"unit": "rem",
+				"value": 12.8
+			},
+			"radius10": {
+				"name": "radius-10",
+				"unit": "rem",
+				"value": 0.2
+			},
+			"radius00": {
+				"name": "radius-00",
+				"unit": "rem",
+				"value": 0
+			},
+			"button": {
+				"name": "button",
+				"unit": "rem",
+				"value": 0.2
+			},
+			"card": {
+				"name": "card",
+				"unit": "rem",
+				"value": 0.2
+			},
+			"radius20": {
+				"name": "radius-20",
+				"unit": "rem",
+				"value": 3.2
+			},
+			"input": {
+				"name": "input",
+				"unit": "rem",
+				"value": 0.3
+			},
+			"sizeClosed": {
+				"name": "size-closed",
+				"unit": "px",
+				"value": 0
+			},
+			"sizeXxs": {
+				"name": "size-xxs",
+				"unit": "rem",
+				"value": 0.2
+			},
+			"sizeXs": {
+				"name": "size-xs",
+				"unit": "rem",
+				"value": 0.4
+			},
+			"sizeSm": {
+				"name": "size-sm",
+				"unit": "rem",
+				"value": 0.8
+			},
+			"sizeMd": {
+				"name": "size-md",
+				"unit": "rem",
+				"value": 1.6
+			},
+			"sizeLg": {
+				"name": "size-lg",
+				"unit": "rem",
+				"value": 3.2
+			},
+			"sizeXl": {
+				"name": "size-xl",
+				"unit": "rem",
+				"value": 6.4
+			},
+			"sizeXxl": {
+				"name": "size-xxl",
+				"unit": "rem",
+				"value": 12.8
+			}
+		},
+		"shadows": {
+			"prominence00": {
+				"name": "prominence-00",
+				"value": "0 0 0 0 rgba(27, 28, 28, 0.5)"
+			},
+			"prominence10": {
+				"name": "prominence-10",
+				"value": "0.2rem 0.2rem 0.2rem rgba(27, 28, 28, 0.3)"
+			},
+			"prominence20": {
+				"name": "prominence-20",
+				"value": "0.4rem 0.4rem 0.4rem rgba(27, 28, 28, 0.3)"
+			},
+			"prominence30": {
+				"name": "prominence-30",
+				"value": "0.8rem 0.8rem 0.8rem rgba(27, 28, 28, 0.2)"
+			},
+			"prominence40": {
+				"name": "prominence-40",
+				"value": "1.6rem 1.6rem 1.6rem rgba(27, 28, 28, 0.2)"
+			}
+		}
+	}
+}
